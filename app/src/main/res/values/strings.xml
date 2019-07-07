@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="change_text">Change Text</string>
+    <string name="increase_points">Increase Points</string>
+    <string name="default_text">Default Text</string>
+    <string name="_0">0</string>
+</resources>
